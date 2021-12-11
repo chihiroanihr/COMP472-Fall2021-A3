@@ -1,6 +1,6 @@
 import gensim.downloader as api
-#model = api.load("glove-wiki-gigaword-100")
-
-#https://github.com/RaRe-Technologies/gensim-data
-#https://rare-technologies.com/new-download-api-for-pretrained-nlp-models-and-datasets-in-gensim/
-#https://radimrehurek.com/gensim/
+import pandas as pd
+from IPython.core.display import HTML
+#info = api.info()  # show info about available models/datasets
+#print(info)
+data = pd.read_csv('synonyms.csv', sep=",",header=0)
