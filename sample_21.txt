@@ -1,0 +1,120 @@
+59.	concocted
+a.	devised
+b.	cleaned
+c.	requested
+d.	supervised
+a
+13.	hasten
+a.	permit
+b.	determine
+c.	accelerate
+d.	accompany
+c
+42.	temperate
+a.	cold
+b.	mild
+c.	short
+d.	windy
+b
+62.	sustained
+a.	prolonged
+b.	refined
+c.	lowered
+d.	analyzed
+a
+2.	provisions
+a.	stipulations
+b.	interrelations
+c.	jurisdictions
+d.	interpretations
+a
+58.	command
+a.	observation
+b.	love
+c.	awareness
+d.	mastery
+d
+21.	recognized
+a.	successful
+b.	depicted
+c.	acknowledged
+d.	welcomed
+c
+18.	issues
+a.	training
+b.	salaries
+c.	subjects
+d.	benefits
+c
+20.	costly
+a.	expensive
+b.	beautiful
+c.	popular
+d.	complicated
+a
+36.	unmatched
+a.	unrecognized
+b.	unequaled
+c.	alienated
+d.	emulated
+b
+17.	constantly
+a.	instantly
+b.	continually
+c.	rapidly
+d.	accidentally
+b
+43.	grin
+a.	exercise
+b.	rest
+c.	joke
+d.	smile
+d
+47.	keen
+a.	useful
+b.	simple
+c.	famous
+d.	sharp
+d
+77.	marketed
+a.	frozen
+b.	sold
+c.	sweetened
+d.	diluted
+b
+79.	roots
+a.	origins
+b.	rituals
+c.	cure
+d.	function
+a
+5.	zenith
+a.	completion
+b.	pinnacle
+c.	outset
+d.	decline
+b
+10.	concisely
+a.	powerfully
+b.	positively
+c.	freely
+d.	succinctly
+d
+32.	deftly
+a.	skillfully
+b.	prudently
+c.	occasionally
+d.	humorously
+a
+73.	uniform
+a.	hard
+b.	complex
+c.	alike
+d.	sharp
+c
+7.	urgently
+a.	typically
+b.	conceivably
+c.	tentatively
+d.	desperately
+d
