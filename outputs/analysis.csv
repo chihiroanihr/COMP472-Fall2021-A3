@@ -1,2 +1,6 @@
-model_name,corpus_size,#correct_labels,#questions_answered_no_guess,accuracy_model
-word2vec-google-news-300,3000000,70,79,0.8860759493670886
+model_info,corpus_size,#correct_labels,#questions_answered_no_guess,accuracy_model
+glove-twitter-200,80,44,77,0.5714285714285714
+glove-twitter-25,80,36,77,0.4675324675324675
+glove-twitter-50,80,36,77,0.4675324675324675
+glove-wiki-gigaword-200,80,68,79,0.8607594936708861
+word2vec-google-news-300,80,70,79,0.8860759493670886
