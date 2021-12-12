@@ -1,0 +1,2 @@
+model_name,corpus_size,#correct_labels,#questions_answered_no_guess,accuracy_model
+word2vec-google-news-300,3000000,70,79,0.8860759493670886
